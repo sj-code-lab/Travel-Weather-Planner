@@ -27,11 +27,11 @@ Using `if`, `elif`, and `else`, the program must:
 If `distance_mi` is a falsy value:  
 **Print `False`**
 
-#### 2. Distance ≤ 1 mile  
+#### 2. Distance <= 1 mile  
 - Print `True` only if **not raining**  
 - Otherwise print `False`
 
-#### 3. Distance > 1 and ≤ 6 miles  
+#### 3. Distance > 1 and <= 6 miles  
 - Print `True` only if **has a bike AND not raining**  
 - Otherwise print `False`
 
